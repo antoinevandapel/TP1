@@ -2,10 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3416daa7-845c-4f35-a5c4-f29a0b230200" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercice3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/20160830_212645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Encastrement-triangle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Perruche.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Triangle3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baboon1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baboon2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baboon3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baboon4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bear.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bike.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/binary.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/binaryGroup.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/boldt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/boldt_salt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/building.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/building2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/canal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/canal2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chariot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/church01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/church02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/church03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dolphin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ensembe-sac-rouge-triangle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fond_rouge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fruit.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fundy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/group.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/marais.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/monument1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/monument2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/moose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/moto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/parliament1.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/parliament2.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/parliament3.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/penrose-triangle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/polar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/puppy.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/road.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sagouine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/triangle-512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/triangle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/triangle2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/waves.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TP1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TP1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercice1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.avi" beforeDir="false" afterPath="$PROJECT_DIR$/output.avi" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +80,12 @@
   <component name="ProjectId" id="1SC6V9obXvbPzQ6Cj0HrE28V0rf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\FA21\2e Année\Développement Mobile et Image\TP1-GITHUB\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,6 +226,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571055251508</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat(COURS): Histogramme">
+      <created>1571210800632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571210800632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,5 +246,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(COURS): Histogramme" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(COURS): Histogramme" />
   </component>
 </project>
